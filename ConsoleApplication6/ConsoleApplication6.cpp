@@ -1,5 +1,5 @@
 // ConsoleApplication6.cpp : Defines the entry point for the console application.
-//
+// This is now a working version
 
 #include "stdafx.h"
 
